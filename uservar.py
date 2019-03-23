@@ -11,9 +11,9 @@ ART            = os.path.join(PATH, 'resources', 'art')
 ### User Edit Variables #################################
 #########################################################
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
-ADDONTITLE     = '[B][COLOR dodgerblue]Aftermath[/COLOR][/B] Wizard'
-BUILDERNAME    = 'Aftermath'
-EXCLUDES       = [ADDON_ID, 'repository.aftermath']
+ADDONTITLE     = '[B][COLOR dodgerblue]KustomKodi[/COLOR][/B] Wizard'
+BUILDERNAME    = 'KustomKodi'
+EXCLUDES       = [ADDON_ID, 'repository.KustomKodi1']
 # Enable/Disable the text file caching with 'Yes' or 'No' and age being how often it rechecks in minutes
 CACHETEXT      = 'Yes'
 CACHEAGE       = 30
@@ -78,7 +78,7 @@ THEME5         = '[COLOR '+COLOR1+']Current Theme:[/COLOR] [COLOR '+COLOR2+']%s[
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
 HIDECONTACT    = 'No'
 # You can add \n to do line breaks
-CONTACT        = 'Thank you for choosing Aftermath Wizard.\n\nContact us on Github at http://www.github.com/drinfernoo/plugin.program.aftermath/'
+CONTACT        = 'Thank you for choosing KustomKodi Wizard.\n\nContact us on Github at http://www.github.com/gitmoosey/plugin.program.KustomKodi/'
 #Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON    = os.path.join(ART, 'qricon.png')
 CONTACTFANART  = 'http://'
