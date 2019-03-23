@@ -9,7 +9,7 @@
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
     <summary lang="en">[B][COLOR dodgerblue]Customize Kodi[/COLOR][/B] Wizard</summary>
-    <description lang="en">[B][COLOR dodgerblue]Aftermath[/COLOR][/B] Wizard offers many options to automate custumizing your skin or build</description>
+    <description lang="en">[B][COLOR dodgerblue]KustomKodi[/COLOR][/B] Wizard offers many options to automate customizing your skin or build</description>
     <platform>all</platform>
   </extension>
 </addon>
